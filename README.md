@@ -7,7 +7,9 @@ On Linux you can get the latest version of the OpenPLC Editor straight from sour
 sudo apt-get install git
 
 git clone https://github.com/thiagoralves/OpenPLC_Editor
+
 cd OpenPLC_Editor
+
 ./install.sh
 
 Once the installation finishes, a shortcut for OpenPLC Editor will be created on the Applications menu.
